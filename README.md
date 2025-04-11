@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/dar.png" alt="Darius Caparro" width="200"/>
+  <img src="/dar.png" alt="Darius Caparro Banner" style="width:100%; max-height:300px; object-fit: cover;" />
 </p>
 
 ## Hello World 👋, Im Darius a Web Developer, Software Engineering, and Computational Science Enthusiast  
