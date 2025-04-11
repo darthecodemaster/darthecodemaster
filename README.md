@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="/dar.png" alt="Darius Caparro Banner" style="width:100%; max-height:300px; object-fit: cover;" />
+  <img src="/dar.png" alt="Darius Caparro Banner" width="100%" />
 </p>
 
 ## Hello World 👋, Im Darius a Web Developer, Software Engineering, and Computational Science Enthusiast  
 
 # 💫 About Me:
-🛠 Currently Building<br>I’m immersed in front-end development projects using React.js, JavaScript (ES6+), and design tools like Figma and Adobe XD. On the side, I’m working on machine learning and data science projects in Python and R—blending my love for code with analytical thinking.<br><br>🤝 Excited to Collaborate On<br>Educational technology platforms, interactive websites, and data-driven initiatives—especially ones that can make a positive impact on learning and accessibility.<br><br>🧠 Looking to Grow In<br>Advanced backend development, cloud integrations, and deploying machine learning models in real-world applications.<br><br>🌱 Actively Learning<br>Currently taking CS50x from HarvardX and diving into web programming with Python and JavaScript. I’m also expanding my knowledge in scientific computing, data visualization, and performance optimization.<br><br>💬 Let’s Talk About<br>Creating clean, responsive UI with React.js, visualizing complex data in Python, wireframing with Figma, or just geeking out over creative project ideas.<br><br>⚡ Fun Fact<br>I’m a multi-year champion in Damath and Sci-Dama—two logic-based math games—and I love bringing that same strategy and problem-solving energy into my tech projects.
+🛠 Currently Building<br🛠 Currently Building Front-end projects with React.js, JavaScript, and tools like Figma & Adobe XD. Also exploring machine learning and data science with Python and R.<br><br>🤝 Excited to Collaborate On<br>On educational tech, data-driven apps, and projects that create real-world impact.<br><br>🧠 Always Learning<br>Currently taking Harvard’s CS50x, diving deeper into Python, web development, and scientific computing.<br><br>💬 Let’s Talk About<br>Clean UI/UX, data visualization, creative coding ideas, or anything tech!<br><br>⚡ Fun Fact<br>I’m a Damath and Sci-Dama champ—strategy and logic are in my DNA.
 
 
 ## 🌐 Socials:
