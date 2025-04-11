@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/profile.jpg" alt="Darius Caparro" width="200"/>
+  <img src="/dar.png" alt="Darius Caparro" width="200"/>
 </p>
 
 ## Hello World 👋, Im Darius a Web Developer, Software Engineering, and Computational Science Enthusiast  
