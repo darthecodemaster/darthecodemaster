@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🛠 Currently Building<br>Front-end projects with React.js, JavaScript, and tools like Figma & Adobe XD. Also exploring machine learning and data science with Python and R.<br><br>🤝 Let’s Collaborate<br>On educational tech, data-driven apps, and projects that create real-world impact.</p>
+<p align="left">🛠 Currently Building<br>Front-end projects with React.js, JavaScript, and tools like Figma & Adobe XD. Also exploring machine learning and data science with Python and R.<br>🤝 Let’s Collaborate<br>On educational tech, data-driven apps, and projects that create real-world impact.</p>
 
 ###
 
