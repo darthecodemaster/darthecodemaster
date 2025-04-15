@@ -2,7 +2,7 @@
   <img src="/dar.png" alt="Darius Caparro Banner" width="100%" />
 </p>
 
-<h2 align="left">Hello World 👋, Im Darius a Web Developer, Software Engineering, and Computational Science Enthusiast..</h2>
+<h2 align="left">Hello World 👋, I'm Darius — a Web Developer, Software Engineer, and Computational Science Enthusiast.</h2>
 
 ###
 
