@@ -8,7 +8,7 @@
 
 <p align="left">🛠 Currently Building<br>Front-end projects with React.js, JavaScript, and tools like Figma & Adobe XD. Also exploring machine learning and data science with Python and R.<br>🤝 Let’s Collaborate<br>On educational tech, data-driven apps, and projects that create real-world impact.</p>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
