@@ -384,15 +384,7 @@ learning_roadmap = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-  </picture>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=darcodemaster)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
