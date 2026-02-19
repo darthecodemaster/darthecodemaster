@@ -334,7 +334,7 @@ Designed and built a production-grade, 7-phase AI automation system using **n8n*
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darthecodemaster&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darthecodemaster&theme=buddhism&no-frame=true&no-bg=true&column=6&margin-w=6"/>
 </div>
 
 <br/>
@@ -384,7 +384,15 @@ learning_roadmap = {
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=darcodemaster)](https://github.com/ryo-ma/github-profile-trophy)
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+  </picture>
+</div>
 
 <br/>
 
