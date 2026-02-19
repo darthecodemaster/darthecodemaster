@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darius%20Mark%20Roy%20Caparro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darius%20Mark%20Roy%20Caparro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Automation%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -37,85 +37,65 @@
 
 ```python
 class DariusCaparro:
-    name        = "Darius Mark Roy S. Caparro"
-    role        = ["Data Scientist", "ML Engineer", "Front-End Developer", "Automation Engineer"]
-    education   = "BS Applied Physics w/ Computer Science Emphasis — EARIST"
-    location    = "Pasig, Philippines 🇵🇭"
-    email       = "dariusmarkcaparro@gmail.com"
-    experience  = "1–2 years (Freelance Front-End Development, Aug 2023 – May 2024)"
+    name       = "Darius Mark Roy S. Caparro"
+    role       = ["Data Scientist", "ML Engineer", "Front-End Developer", "Automation Engineer"]
+    education  = "BS Applied Physics w/ Computer Science Emphasis — EARIST"
+    location   = "Pasig, Philippines 🇵🇭"
+    email      = "dariusmarkcaparro@gmail.com"
 
-    languages   = ["Python", "R", "JavaScript (ES6+)", "TypeScript", "Java",
-                   "C++", "C#", "Dart", "SQL", "MATLAB"]
-    ml_stack    = ["scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib",
-                   "Seaborn", "Keras"]
-    web_stack   = ["React.js", "Vue.js", "Flutter", "Bootstrap", "HTML5", "CSS3",
-                   "WordPress", "Flexbox", "Grid"]
-    automation  = ["n8n", "Zapier", "OpenAI API", "Google Cloud Vision API",
-                   "Google Docs API", "Google Sheets API", "Google Drive API",
-                   "Discord Webhooks", "REST APIs", "Whisper (Speech-to-Text)",
-                   "OCR Pipelines", "Webhook Triggers", "Scheduled Workflows"]
-    tools       = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter",
-                   "VS Code", "Photoshop", "GIMP", "npm/Yarn"]
+    languages  = ["Python", "R", "JavaScript (ES6+)", "TypeScript",
+                  "C++", "C#", "Java", "Dart", "SQL", "MATLAB"]
+    ml_stack   = ["scikit-learn", "TensorFlow", "Keras", "Pandas", "NumPy",
+                  "Matplotlib", "Seaborn"]
+    web_stack  = ["React.js", "Vue.js", "Flutter", "Bootstrap", "HTML5", "CSS3", "WordPress"]
+    automation = ["n8n", "Zapier", "OpenAI API", "Google Cloud APIs",
+                  "Whisper STT", "OCR Pipelines", "REST APIs", "Webhooks"]
+    tools      = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter", "VS Code"]
 
-    currently   = "Building AI automation workflows & exploring deep learning & LLMs"
-    open_to     = "ML, EdTech, Automation, Data Science, and impactful software projects"
+    currently  = "Building AI automation pipelines & exploring LLMs and deep learning"
+    open_to    = "ML Engineering, Data Science, AI Automation, and impactful software roles"
 ```
 
 <br/>
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-<div align="center">
+### Freelance Front-End Developer &nbsp;·&nbsp; Aug 2023 – May 2024
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  FRONT-END DEVELOPER  ·  FREELANCER        Aug 2023 – May 2024      │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  ✦ Built responsive front-end websites & WordPress projects         │
-│  ✦ HTML5, CSS3, Flexbox, Grid — responsive across all devices       │
-│  ✦ React.js — state management, hooks, component architecture       │
-│  ✦ ES6+ JavaScript — async/await, DOM manipulation, promises        │
-│  ✦ UI/UX prototyping with Figma, Adobe XD & Sketch                  │
-│  ✦ Git/GitHub, GitLab, Bitbucket — version control & collaboration  │
-│  ✦ Browser DevTools — debugging & performance optimization          │
-│  ✦ Cross-browser compatibility & image editing (Photoshop/GIMP)     │
-│                                                                     │
-│  CLIENT PROJECT: Polygon Puzzlers (Completed Jun 2024)              │
-│  Research tool for BS Education Major in Mathematics —              │
-│  professional UX focused on educational efficacy & accessibility.   │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+Delivered responsive, production-ready web applications for clients across various industries, handling the full front-end lifecycle from wireframing to deployment.
 
-</div>
+| Area | Details |
+|:---|:---|
+| **UI Development** | Built responsive websites using HTML5, CSS3, Flexbox, Grid, and Bootstrap |
+| **React.js** | Developed component-based SPAs with hooks, state management, and REST API integration |
+| **JavaScript ES6+** | Implemented async/await, DOM manipulation, modular JS, and third-party library integration |
+| **Design & Prototyping** | Created wireframes and interactive mockups in Figma and Adobe XD |
+| **Version Control** | Managed codebases via Git/GitHub, GitLab, and Bitbucket in collaborative environments |
+| **Client Project** | **Polygon Puzzlers** — Educational math tool for BS Education research (Jun 2024); formal UX design prioritizing accessibility and academic usability |
 
 <br/>
 
----
+### AI Workflow Automation Engineer &nbsp;·&nbsp; Personal & Freelance Projects
 
-## 🤖 Machine Learning & Data Science Experience
+Designed and built a production-grade, 7-phase AI automation system using **n8n** — integrating multiple APIs, AI models, cloud services, and real-time delivery pipelines.
 
-<div align="center">
-
-| Area | What I've Built | Tools |
+| Phase | What Was Built | Technologies |
 |:---|:---|:---|
-| 🔬 **Classification & Prediction** | Cat & Dog Classifier, Neural Network SMS Classifier, Linear Regression Health Costs | TensorFlow · Keras · scikit-learn |
-| 📊 **Data Analysis & EDA** | Demographic Analyzer, Medical Data Visualizer, Sea Level Predictor | Pandas · NumPy · Matplotlib |
-| 📈 **Data Visualization** | Bar Chart, Scatterplot, Heat Map, Choropleth Map, Treemap Diagram | D3.js · Seaborn · PowerBI |
-| 🧠 **Recommendation Systems** | Book Recommendation Engine using KNN | scikit-learn · Python |
-| 🔢 **Scientific Computing** | Statistical calculators, Polygon Area Calculator, Probability Engine | Python · R · MATLAB |
-| 🌐 **ML-Powered Web Apps** | Data Graph Explorer, Graphing Calculator, Financial Calculator | React.js · Python · REST APIs |
-
-</div>
+| **📥 Ingestion** | Multi-source content capture via webhooks | WhatsApp Business API · Instagram Graph API · Google Drive · YouTube |
+| **⚙️ Processing** | Audio transcription, OCR, PDF extraction, language routing | OpenAI Whisper · Google Vision API · OCR.Space · Multi-format Switch Router |
+| **🤖 AI Enrichment** | Automated summarization, sentiment scoring, tagging & repurposing | GPT-4.1-mini Agents · LangChain · Information Extractor nodes |
+| **📤 Output Delivery** | Auto-generated documents, structured data logging, alerts | Google Docs API · Google Sheets API · Discord Webhooks |
+| **📅 Scheduling** | Weekly AI-generated content calendar with trend analysis | Schedule Trigger · GPT trend summarizer · Google Sheets Content_Calendar |
+| **🛡️ Reliability** | Error handling, retry logic, Discord error alerts | Error Trigger · Retry nodes · Webhook response handling |
+| **🔗 Zapier** | Cross-app trigger automations for productivity workflows | Zapier · Form triggers · Notification pipelines |
 
 <br/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 **Machine Learning & Data Science**
 
@@ -128,34 +108,34 @@ class DariusCaparro:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Web & Mobile**
+**Web & Mobile Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Automation & AI Integration**
+**Automation, Cloud & APIs**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**Systems, Languages & Tools**
+**Systems & Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -164,20 +144,24 @@ class DariusCaparro:
 
 ---
 
-## 📊 Skill Proficiency
+## 🚀 Notable Projects
 
 <div align="center">
 
-| Domain | Stack | Level |
-|:---|:---|:---|
-| 🤖 **Machine Learning** | scikit-learn · TensorFlow · Keras | `████████░░` 80% |
-| 📊 **Data Science** | Pandas · NumPy · R · PowerBI | `████████░░` 80% |
-| 🌐 **Frontend Dev** | React.js · ES6+ · HTML/CSS | `█████████░` 90% |
-| ⚡ **Workflow Automation** | n8n · Zapier · Google APIs · Webhooks | `████████░░` 80% |
-| ☁️ **Cloud & APIs** | Google Cloud · REST APIs · OpenAI API · Discord API | `███████░░░` 75% |
-| 📱 **Mobile Dev** | Flutter · Dart | `██████░░░░` 60% |
-| 🗄️ **Systems / Backend** | C++ · C# · C · Java | `███████░░░` 70% |
-| 🎨 **UI/UX Design** | Figma · Adobe XD · Photoshop | `████████░░` 80% |
+| Domain | Project | Description | Stack |
+|:---|:---|:---|:---|
+| ⚡ **Automation** | AI Content Automation System | 7-phase n8n MVP — multi-source ingestion, Whisper STT, Google Vision OCR, GPT-4.1 summaries, auto Docs/Sheets output + Discord alerts | n8n · OpenAI · Google Cloud · Whisper |
+| ⚡ **Automation** | Zapier Workflow Pipelines | Trigger-based cross-app automations for content workflows and notifications | Zapier · REST APIs |
+| 🤖 **ML & AI** | Cat & Dog Image Classifier | CNN binary classifier using transfer learning | TensorFlow · Keras |
+| 🤖 **ML & AI** | Neural Network SMS Classifier | Text classification — spam vs. ham detection | TensorFlow · Python |
+| 🤖 **ML & AI** | Book Recommendation Engine | KNN-based collaborative filtering system | scikit-learn · Python |
+| 🤖 **ML & AI** | Linear Regression Health Costs | Predictive model for healthcare cost estimation | Keras · Pandas |
+| 📊 **Data Science** | Sea Level Predictor | Time-series regression for future sea level forecasting | Python · Matplotlib |
+| 📊 **Data Science** | Medical Data Visualizer | EDA with statistical charts on medical exam datasets | Pandas · Seaborn |
+| 📊 **Data Science** | Page View Time Series Visualizer | Trend analysis using line, bar, and box plots | Matplotlib · Pandas |
+| 🌐 **Web Dev** | Darmark E-Commerce Website | Full front-end e-commerce site with modern UI/UX | React.js · CSS3 |
+| 🌐 **Web Dev** | Polygon Puzzlers *(Client)* | Educational math tool for BS Education research | React.js · Figma |
+| ⚙️ **Systems** | Electric Billing System | Console-based utility billing application | C |
 
 </div>
 
@@ -189,19 +173,19 @@ class DariusCaparro:
 
 <div align="center">
 
-> **10 certifications · 3,000+ hours of structured learning · Nov 2023 – Jun 2024**
+> **10 certifications &nbsp;·&nbsp; 3,000+ hours of structured learning &nbsp;·&nbsp; Nov 2023 – Jun 2024**
 
 <br/>
 
-### 🥇 Featured — Most Prestigious
+### 🥇 Featured
 
 <a href="https://coursera.org/verify/professional-cert/VC3KUPNDBD4Y">
-  <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/meta.PNG" width="65%" alt="Meta Front-End Developer"/>
+  <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/meta.PNG" width="60%" alt="Meta Front-End Developer"/>
 </a>
 
 **Meta Front-End Developer Professional Certificate** &nbsp;·&nbsp; Meta × Coursera &nbsp;·&nbsp; Feb 2024
 
-*9-course program: React Basics · Advanced React · HTML/CSS in Depth · JavaScript · UX/UI · Capstone*
+*9-course program: Intro to Front-End · JavaScript · Version Control · HTML/CSS in Depth · React Basics · Advanced React · UX/UI Design · Capstone · Coding Interview Prep*
 
 <a href="https://coursera.org/verify/professional-cert/VC3KUPNDBD4Y"><img src="https://img.shields.io/badge/Verify%20Certificate-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
 
@@ -240,8 +224,6 @@ class DariusCaparro:
   </tr>
 </table>
 
-<br/>
-
 ### 🔬 Scientific & Mathematical Computing
 
 <table>
@@ -264,8 +246,6 @@ class DariusCaparro:
     </td>
   </tr>
 </table>
-
-<br/>
 
 ### 🌐 Web Development
 
@@ -298,8 +278,6 @@ class DariusCaparro:
   </tr>
 </table>
 
-<br/>
-
 ### ⚙️ Systems & Languages
 
 <table>
@@ -324,124 +302,6 @@ class DariusCaparro:
 </table>
 
 </div>
-
-<br/>
-
----
-
-## ⚡ Workflow Automation Experience
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║           AI-POWERED AUTOMATION  ·  n8n  ·  ZAPIER                 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  FEATURED PROJECT: AI Content Automation System (n8n MVP)           ║
-║  ────────────────────────────────────────────────────────           ║
-║                                                                      ║
-║  📥 INGESTION          ⚙️  PROCESSING         🤖 AI INSIGHTS         ║
-║  ─────────────         ────────────           ────────────           ║
-║  ✦ WhatsApp API        ✦ Whisper STT          ✦ GPT-4.1-mini Agent  ║
-║  ✦ Instagram Graph     ✦ Google Vision OCR    ✦ Summaries & Scores  ║
-║  ✦ YouTube Links       ✦ OCR.Space API        ✦ Sentiment Analysis  ║
-║  ✦ Google Drive        ✦ PDF Extraction       ✦ Auto-Tagging        ║
-║  ✦ Webhook Triggers    ✦ Language Detection   ✦ Counter Arguments   ║
-║                        ✦ Multi-format Router  ✦ Content Repurposing ║
-║                                                                      ║
-║  📤 OUTPUTS                      🛡️  RELIABILITY                     ║
-║  ────────────                    ─────────────                       ║
-║  ✦ Google Docs (auto-fill)       ✦ Error Trigger + Discord alerts   ║
-║  ✦ Google Sheets logging         ✦ Retry logic on all nodes         ║
-║  ✦ Content Calendar (Sheets)     ✦ Webhook response handling        ║
-║  ✦ Discord webhook alerts        ✦ 7-phase modular architecture     ║
-║  ✦ Weekly AI trend reports                                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### Automation Stack & Integrations
-
-| Tool | Use Case | Integrations Built |
-|:---|:---|:---|
-| ⚡ **n8n** | Visual workflow automation & AI orchestration | OpenAI · Google APIs · Discord · OCR · Whisper · Webhooks |
-| 🔗 **Zapier** | Trigger-based app integrations & data pipelines | Cross-app automations, form triggers, notification workflows |
-| ☁️ **Google Cloud** | Vision API, Docs API, Sheets API, Drive API | OCR, document generation, data logging, file management |
-| 🤖 **OpenAI API** | GPT-4.1-mini agents for summarization & extraction | AI summaries, sentiment scoring, content tagging, trend analysis |
-| 🌐 **REST APIs** | HTTP requests, webhook design & payload handling | Discord Webhooks, RapidAPI (YouTube transcripts), OCR.Space |
-
-<br/>
-
----
-
-## 🚀 Notable Projects
-
-<div align="center">
-
-| Category | Project | Description |
-|:---|:---|:---|
-| ⚡ **Automation** | AI Content Automation System (n8n) | 7-phase MVP workflow — ingests WhatsApp, Instagram, YouTube, PDFs & audio; transcribes via Whisper, OCR via Google Vision API, AI summaries via GPT-4.1, outputs to Google Docs/Sheets with Discord alerts |
-| ⚡ **Automation** | Workflow Automations (Zapier) | Built trigger-based automations connecting apps, APIs, and data pipelines for productivity and content workflows |
-| 🤖 **ML & AI** | Cat & Dog Image Classifier | CNN-based binary image classifier using TensorFlow/Keras |
-| 🤖 **ML & AI** | Neural Network SMS Classifier | Text classification model distinguishing spam vs ham |
-| 🤖 **ML & AI** | Book Recommendation Engine | KNN-based collaborative filtering recommendation system |
-| 📊 **Data Science** | Sea Level Predictor | Time-series regression predicting future sea level rise |
-| 📊 **Data Science** | Medical Data Visualizer | EDA & visualization of medical examination data |
-| 📊 **Data Science** | Page View Time Series Visualizer | Trend analysis with line, bar & box plots |
-| 🌐 **Web Dev** | Darmark E-Commerce Website | Full front-end e-commerce site with modern UI/UX |
-| 🌐 **Web Dev** | Polygon Puzzlers (Client) | Educational math tool for BS Education — formal UX design |
-| 🔢 **Scientific** | Data Graph Explorer | Interactive scientific data visualization tool |
-| ⚙️ **Systems** | Electric Billing System in C | Console-based utility billing system in C |
-
-</div>
-
-<br/>
-
----
-
-## 📺 YouTube Channel
-
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</div>
-
-<br/>
-
-> 🎬 Just starting out! I'll be sharing content on **Data Science**, **Machine Learning**, and **Web Development**. Subscribe to follow along from the beginning!
-
-| Content Type | Topics |
-|:---|:---|
-| 📊 **Data Science Tutorials** | Python, Pandas, EDA walkthroughs |
-| 🤖 **ML Concepts** | From theory to working code |
-| 🌐 **Web Dev Builds** | React, HTML/CSS, JavaScript projects |
-| 🎓 **Certificate Reviews** | Honest takes on courses I've completed |
-| 🛠 **Dev Tips** | Tools, workflow, productivity hacks |
-
-<br/>
-
----
-
-## ✍️ Blog & Writing
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Blog-Read%20Articles-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-| 📌 Post | Topic |
-|:---|:---|
-| Building a Book Recommendation Engine with KNN | Machine Learning |
-| How I Earned 10 Certificates in Under a Year | Learning Journey |
-| EDA Best Practices in Python | Data Science |
-| My Experience at the HumanAIze Hackathon | EdTech & AI |
 
 <br/>
 
@@ -481,15 +341,41 @@ class DariusCaparro:
 
 ---
 
-## 🌱 Current Roadmap
+## 📺 YouTube &nbsp;·&nbsp; ✍️ Blog
+
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Blog-Read%20Articles-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</div>
+
+<br/>
+
+> 🎬 Sharing content on **Data Science**, **ML**, **Automation**, and my learning journey. Subscribe to follow along!
+
+| Content | Topics |
+|:---|:---|
+| 📊 Data Science Tutorials | Python · Pandas · EDA walkthroughs |
+| 🤖 ML Concepts | From theory to working code |
+| ⚡ Automation Builds | n8n workflows · API integrations |
+| 🎓 Certificate Reviews | Honest course breakdowns |
+| 🌐 Web Dev Builds | React · JavaScript projects |
+
+<br/>
+
+---
+
+## 🌱 Roadmap
 
 ```python
 learning_roadmap = {
     "deep_learning"    : ["CNNs", "Transformers", "LLMs", "Diffusion Models"],
-    "data_engineering" : ["SQL optimization", "Pipeline design", "AWS/GCP Cloud"],
+    "data_engineering" : ["SQL optimization", "Pipeline design", "AWS / GCP Cloud"],
     "automation"       : ["Advanced n8n flows", "MCP integrations", "AI Agent orchestration"],
-    "ongoing_courses"  : ["HarvardX CS50x", "CS50 Web (Python & JavaScript)"],
-    "content_creation" : ["YouTube tutorials", "Technical blog", "Open source"],
+    "ongoing_courses"  : ["HarvardX CS50x", "CS50 Web — Python & JavaScript"],
+    "content_creation" : ["YouTube tutorials", "Technical blog", "Open-source contributions"],
     "next_milestone"   : "Deploy a production-ready ML model + full AI automation pipeline 🚀"
 }
 ```
@@ -497,6 +383,16 @@ learning_roadmap = {
 <br/>
 
 ---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
+  </picture>
+</div>
 
 <br/>
 
