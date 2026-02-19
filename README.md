@@ -1,16 +1,13 @@
-<!-- Header wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Darius%20Mark%20Roy%20Caparro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<!-- Animated typing -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Darius+%F0%9F%91%8B;Data+Scientist+%26+ML+Engineer;Meta+%C3%97+IBM+%C3%97+freeCodeCamp+Certified+%F0%9F%8F%86;Building+intelligent%2C+impactful+systems+%F0%9F%9A%80;10+Certifications+%7C+3000%2B+Hours+of+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Status badges -->
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Experience-1--2%20Years-0891b2?style=for-the-badge&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-16a34a?style=for-the-badge&logo=statuspage&logoColor=white"/>
@@ -18,7 +15,6 @@
 
 <br/><br/>
 
-<!-- Social links -->
 <a href="https://www.linkedin.com/in/dariusmark21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:dariusmarkcaparro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -183,21 +179,21 @@ class DariusCaparro:
 
 <div align="center">
 
-> **10 certifications earned · 3,000+ hours of structured learning · Nov 2023 – Jun 2024**
+> **10 certifications · 3,000+ hours of structured learning · Nov 2023 – Jun 2024**
 
 <br/>
 
 ### 🥇 Featured — Most Prestigious
 
 <a href="https://coursera.org/verify/professional-cert/VC3KUPNDBD4Y">
-  <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/meta.PNG" width="65%" alt="Meta Front-End Developer"/>
+  <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/meta.PNG" width="65%" alt="Meta Front-End Developer"/>
 </a>
 
 **Meta Front-End Developer Professional Certificate** &nbsp;·&nbsp; Meta × Coursera &nbsp;·&nbsp; Feb 2024
 
 *9-course program: React Basics · Advanced React · HTML/CSS in Depth · JavaScript · UX/UI · Capstone*
 
-&nbsp; <a href="https://coursera.org/verify/professional-cert/VC3KUPNDBD4Y"><img src="https://img.shields.io/badge/Verify%20Certificate-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+<a href="https://coursera.org/verify/professional-cert/VC3KUPNDBD4Y"><img src="https://img.shields.io/badge/Verify%20Certificate-0A66C2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -209,7 +205,7 @@ class DariusCaparro:
   <tr>
     <td align="center" width="33%">
       <a href="https://freecodecamp.org/certification/dariusmark21/machine-learning-with-python-v7">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/machine.PNG" width="100%" alt="Machine Learning with Python"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/machine.PNG" width="100%" alt="Machine Learning with Python"/>
       </a>
       <br/><b>Machine Learning with Python</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -217,7 +213,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="33%">
       <a href="https://freecodecamp.org/certification/dariusmark21/data-analysis-with-python-v7">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/data.PNG" width="100%" alt="Data Analysis with Python"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/data.PNG" width="100%" alt="Data Analysis with Python"/>
       </a>
       <br/><b>Data Analysis with Python</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -225,7 +221,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="33%">
       <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/04039f4689c14784a223139cdeede2c8">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/IBM_Skillbuild_certificate.PNG" width="100%" alt="Python 101 for Data Science"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/IBM%20Skillbuild%20certificate.PNG" width="100%" alt="Python 101 for Data Science"/>
       </a>
       <br/><b>Python 101 for Data Science</b>
       <br/><sub>IBM SkillsBuild · Jun 2024</sub>
@@ -242,7 +238,7 @@ class DariusCaparro:
   <tr>
     <td align="center" width="50%">
       <a href="https://freecodecamp.org/certification/dariusmark21/scientific-computing-with-python-v7">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/scientific.PNG" width="100%" alt="Scientific Computing with Python"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/scientific.PNG" width="100%" alt="Scientific Computing with Python"/>
       </a>
       <br/><b>Scientific Computing with Python</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -250,7 +246,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="50%">
       <a href="https://freecodecamp.org/certification/dariusmark21/college-algebra-with-python-v8">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/algebra.PNG" width="100%" alt="College Algebra with Python"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/algebra.PNG" width="100%" alt="College Algebra with Python"/>
       </a>
       <br/><b>College Algebra with Python</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -267,7 +263,7 @@ class DariusCaparro:
   <tr>
     <td align="center" width="33%">
       <a href="https://freecodecamp.org/certification/dariusmark21/responsive-web-design">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/Responsive_web_DESIGN.PNG" width="100%" alt="Responsive Web Design"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/Responsive%20web%20DESIGN.PNG" width="100%" alt="Responsive Web Design"/>
       </a>
       <br/><b>Legacy Responsive Web Design V8</b>
       <br/><sub>freeCodeCamp · Nov 2023 · ~300hrs</sub>
@@ -275,7 +271,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="33%">
       <a href="https://freecodecamp.org/certification/dariusmark21/front-end-development-libraries">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/front-end.PNG" width="100%" alt="Front End Development Libraries"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/front-end.PNG" width="100%" alt="Front End Development Libraries"/>
       </a>
       <br/><b>Front End Development Libraries V8</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -283,7 +279,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="33%">
       <a href="https://freecodecamp.org/certification/dariusmark21/javascript-algorithms-and-data-structures">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/java.PNG" width="100%" alt="JavaScript Algorithms and Data Structures"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/java.PNG" width="100%" alt="JavaScript Algorithms and Data Structures"/>
       </a>
       <br/><b>JS Algorithms & Data Structures V7</b>
       <br/><sub>freeCodeCamp · Dec 2023 · ~300hrs</sub>
@@ -300,7 +296,7 @@ class DariusCaparro:
   <tr>
     <td align="center" width="50%">
       <a href="https://freecodecamp.org/certification/dariusmark21/foundational-c-sharp-with-microsoft">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/Freecodecamp-c__microsoft.PNG" width="100%" alt="Foundational C# with Microsoft"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/Freecodecamp-c%23%20microsoft.PNG" width="100%" alt="Foundational C# with Microsoft"/>
       </a>
       <br/><b>Foundational C# with Microsoft</b>
       <br/><sub>freeCodeCamp × Microsoft · Dec 2023</sub>
@@ -308,7 +304,7 @@ class DariusCaparro:
     </td>
     <td align="center" width="50%">
       <a href="https://www.freecodecamp.org/certification/dariusmark21/data-visualization">
-        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/certs/Capture.PNG" width="100%" alt="Data Visualization"/>
+        <img src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/main/cert/Capture.PNG" width="100%" alt="Data Visualization"/>
       </a>
       <br/><b>Data Visualization</b>
       <br/><sub>freeCodeCamp · 2023</sub>
@@ -316,10 +312,6 @@ class DariusCaparro:
     </td>
   </tr>
 </table>
-
-<br/>
-
-> 📁 **Setup:** Create a `/certs` folder in this repo and upload all certificate images with the exact filenames shown above. The grid will render automatically!
 
 </div>
 
@@ -353,24 +345,20 @@ class DariusCaparro:
 ## 📺 YouTube Channel
 
 <div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
-> 🎬 Just starting out! I'll be sharing content on **Data Science**, **Machine Learning**, **Web Development** and my learning journey. Subscribe to follow along from the beginning!
+<br/>
+
+> 🎬 Just starting out! I'll be sharing content on **Data Science**, **Machine Learning**, and **Web Development**. Subscribe to follow along from the beginning!
 
 | Content Type | Topics |
 |:---|:---|
 | 📊 **Data Science Tutorials** | Python, Pandas, EDA walkthroughs |
 | 🤖 **ML Concepts** | From theory to working code |
 | 🌐 **Web Dev Builds** | React, HTML/CSS, JavaScript projects |
-| 🎓 **Certificate Reviews** | Honest takes on courses I've done |
+| 🎓 **Certificate Reviews** | Honest takes on courses I've completed |
 | 🛠 **Dev Tips** | Tools, workflow, productivity hacks |
-
-> 🔔 **[Subscribe →](#)** — drop your YouTube URL here!
 
 <br/>
 
@@ -386,9 +374,9 @@ class DariusCaparro:
 
 </div>
 
-> 📝 I write about ML concepts, web dev projects, and practical tips for developers. Replace the links above with your real blog URL when ready!
+<br/>
 
-| 📌 Post Idea | Topic |
+| 📌 Post | Topic |
 |:---|:---|
 | Building a Book Recommendation Engine with KNN | Machine Learning |
 | How I Earned 10 Certificates in Under a Year | Learning Journey |
@@ -461,9 +449,6 @@ learning_roadmap = {
 
 <br/>
 
----
-
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
