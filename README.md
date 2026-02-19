@@ -38,7 +38,7 @@
 ```python
 class DariusCaparro:
     name        = "Darius Mark Roy S. Caparro"
-    role        = ["Data Scientist", "ML Engineer", "Front-End Developer"]
+    role        = ["Data Scientist", "ML Engineer", "Front-End Developer", "Automation Engineer"]
     education   = "BS Applied Physics w/ Computer Science Emphasis — EARIST"
     location    = "Pasig, Philippines 🇵🇭"
     email       = "dariusmarkcaparro@gmail.com"
@@ -50,6 +50,10 @@ class DariusCaparro:
                    "Seaborn", "Keras"]
     web_stack   = ["React.js", "Vue.js", "Flutter", "Bootstrap", "HTML5", "CSS3",
                    "WordPress", "Flexbox", "Grid"]
+    automation  = ["n8n", "Zapier", "OpenAI API", "Google Cloud Vision API",
+                   "Google Docs API", "Google Sheets API", "Google Drive API",
+                   "Discord Webhooks", "REST APIs", "Whisper (Speech-to-Text)",
+                   "OCR Pipelines", "Webhook Triggers", "Scheduled Workflows"]
     tools       = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter",
                    "VS Code", "Photoshop", "GIMP", "npm/Yarn"]
 
@@ -57,11 +61,12 @@ class DariusCaparro:
         "Dean's Lister",
         "HumanAIze Hackathon — EdTech Edition participant",
         "3-time District Damath Champion",
-        "10 Certifications | 3000+ hours of structured learning"
+        "10 Certifications | 3000+ hours of structured learning",
+        "Built 7-phase AI automation system with n8n + OpenAI + Google Cloud"
     ]
 
-    currently   = "Building data-driven apps & exploring deep learning & LLMs"
-    open_to     = "ML, EdTech, Data Science, and impactful software projects"
+    currently   = "Building AI automation workflows & exploring deep learning & LLMs"
+    open_to     = "ML, EdTech, Automation, Data Science, and impactful software projects"
 ```
 
 <br/>
@@ -142,6 +147,17 @@ class DariusCaparro:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+**Automation & AI Integration**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 **Systems, Languages & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -165,6 +181,8 @@ class DariusCaparro:
 | 🤖 **Machine Learning** | scikit-learn · TensorFlow · Keras | `████████░░` 80% |
 | 📊 **Data Science** | Pandas · NumPy · R · PowerBI | `████████░░` 80% |
 | 🌐 **Frontend Dev** | React.js · ES6+ · HTML/CSS | `█████████░` 90% |
+| ⚡ **Workflow Automation** | n8n · Zapier · Google APIs · Webhooks | `████████░░` 80% |
+| ☁️ **Cloud & APIs** | Google Cloud · REST APIs · OpenAI API · Discord API | `███████░░░` 75% |
 | 📱 **Mobile Dev** | Flutter · Dart | `██████░░░░` 60% |
 | 🗄️ **Systems / Backend** | C++ · C# · C · Java | `███████░░░` 70% |
 | 🎨 **UI/UX Design** | Figma · Adobe XD · Photoshop | `████████░░` 80% |
@@ -319,12 +337,62 @@ class DariusCaparro:
 
 ---
 
+## ⚡ Workflow Automation Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║           AI-POWERED AUTOMATION  ·  n8n  ·  ZAPIER                 ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  FEATURED PROJECT: AI Content Automation System (n8n MVP)           ║
+║  ────────────────────────────────────────────────────────           ║
+║                                                                      ║
+║  📥 INGESTION          ⚙️  PROCESSING         🤖 AI INSIGHTS         ║
+║  ─────────────         ────────────           ────────────           ║
+║  ✦ WhatsApp API        ✦ Whisper STT          ✦ GPT-4.1-mini Agent  ║
+║  ✦ Instagram Graph     ✦ Google Vision OCR    ✦ Summaries & Scores  ║
+║  ✦ YouTube Links       ✦ OCR.Space API        ✦ Sentiment Analysis  ║
+║  ✦ Google Drive        ✦ PDF Extraction       ✦ Auto-Tagging        ║
+║  ✦ Webhook Triggers    ✦ Language Detection   ✦ Counter Arguments   ║
+║                        ✦ Multi-format Router  ✦ Content Repurposing ║
+║                                                                      ║
+║  📤 OUTPUTS                      🛡️  RELIABILITY                     ║
+║  ────────────                    ─────────────                       ║
+║  ✦ Google Docs (auto-fill)       ✦ Error Trigger + Discord alerts   ║
+║  ✦ Google Sheets logging         ✦ Retry logic on all nodes         ║
+║  ✦ Content Calendar (Sheets)     ✦ Webhook response handling        ║
+║  ✦ Discord webhook alerts        ✦ 7-phase modular architecture     ║
+║  ✦ Weekly AI trend reports                                           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### Automation Stack & Integrations
+
+| Tool | Use Case | Integrations Built |
+|:---|:---|:---|
+| ⚡ **n8n** | Visual workflow automation & AI orchestration | OpenAI · Google APIs · Discord · OCR · Whisper · Webhooks |
+| 🔗 **Zapier** | Trigger-based app integrations & data pipelines | Cross-app automations, form triggers, notification workflows |
+| ☁️ **Google Cloud** | Vision API, Docs API, Sheets API, Drive API | OCR, document generation, data logging, file management |
+| 🤖 **OpenAI API** | GPT-4.1-mini agents for summarization & extraction | AI summaries, sentiment scoring, content tagging, trend analysis |
+| 🌐 **REST APIs** | HTTP requests, webhook design & payload handling | Discord Webhooks, RapidAPI (YouTube transcripts), OCR.Space |
+
+<br/>
+
+---
+
 ## 🚀 Notable Projects
 
 <div align="center">
 
 | Category | Project | Description |
 |:---|:---|:---|
+| ⚡ **Automation** | AI Content Automation System (n8n) | 7-phase MVP workflow — ingests WhatsApp, Instagram, YouTube, PDFs & audio; transcribes via Whisper, OCR via Google Vision API, AI summaries via GPT-4.1, outputs to Google Docs/Sheets with Discord alerts |
+| ⚡ **Automation** | Workflow Automations (Zapier) | Built trigger-based automations connecting apps, APIs, and data pipelines for productivity and content workflows |
 | 🤖 **ML & AI** | Cat & Dog Image Classifier | CNN-based binary image classifier using TensorFlow/Keras |
 | 🤖 **ML & AI** | Neural Network SMS Classifier | Text classification model distinguishing spam vs ham |
 | 🤖 **ML & AI** | Book Recommendation Engine | KNN-based collaborative filtering recommendation system |
@@ -427,9 +495,10 @@ class DariusCaparro:
 learning_roadmap = {
     "deep_learning"    : ["CNNs", "Transformers", "LLMs", "Diffusion Models"],
     "data_engineering" : ["SQL optimization", "Pipeline design", "AWS/GCP Cloud"],
+    "automation"       : ["Advanced n8n flows", "MCP integrations", "AI Agent orchestration"],
     "ongoing_courses"  : ["HarvardX CS50x", "CS50 Web (Python & JavaScript)"],
     "content_creation" : ["YouTube tutorials", "Technical blog", "Open source"],
-    "next_milestone"   : "Deploy a production-ready ML model 🚀"
+    "next_milestone"   : "Deploy a production-ready ML model + full AI automation pipeline 🚀"
 }
 ```
 
