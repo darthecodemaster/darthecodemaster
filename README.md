@@ -57,14 +57,6 @@ class DariusCaparro:
     tools       = ["Git/GitHub", "Figma", "Adobe XD", "PowerBI", "Jupyter",
                    "VS Code", "Photoshop", "GIMP", "npm/Yarn"]
 
-    achievements = [
-        "Dean's Lister",
-        "HumanAIze Hackathon — EdTech Edition participant",
-        "3-time District Damath Champion",
-        "10 Certifications | 3000+ hours of structured learning",
-        "Built 7-phase AI automation system with n8n + OpenAI + Google Cloud"
-    ]
-
     currently   = "Building AI automation workflows & exploring deep learning & LLMs"
     open_to     = "ML, EdTech, Automation, Data Science, and impactful software projects"
 ```
@@ -505,16 +497,6 @@ learning_roadmap = {
 <br/>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/darthecodemaster/darthecodemaster/output/snake.svg"/>
-  </picture>
-</div>
 
 <br/>
 
